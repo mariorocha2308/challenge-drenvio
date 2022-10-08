@@ -1,6 +1,6 @@
-# CHALLENGE RANDOM PROFILES - DR. ENVIO
+# CHALLENGE RANDOM PROFILES - DR. ENVIÓ
 
-- Demostracion de conocimientos en ( ReactJs ), consumo de una API y guardando la informacion obtenida en un manejador de estados globales de la aplicacion ( Redux Toolkit ), integracion Responsive Design mediante framework CSS ( Chakra UI ).
+- Demostración de conocimientos en ( ReactJs ), consumo de una API y guardando la información obtenida en un controlador de estados globales de la aplicación ( Redux Toolkit ), integración Responsive Design mediante framework CSS ( Chakra UI ).
 
 - Proyecto usa Vite en lugar del conocido Create React App
 
@@ -15,6 +15,6 @@
 
 Este logra hacer un cambio de color en background de la portada de nuestro perfil.  
 
-- #### Cerrar sesion
+- #### Cerrar sesión
 
-Hace un cambio representaivo de un cierre de sesion, mostrando la informacion de un otro usuario random de nuestra API
+Hace un cambio representativo de un cierre de sesión, mostrando la información de un otro usuario random de nuestra API
